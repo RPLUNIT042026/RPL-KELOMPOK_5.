@@ -52,7 +52,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h1>👥</h1>
+      <h1><a href="sprint-1/01-Profil-Kelompok.pdf">👥</a></h1>
       <h3>Profil Kelompok</h3>
       <p><sub>Siapa kami, peran masing-masing,<br>dan aturan kerja tim.</sub></p>
       <a href="sprint-1/01-Profil-Kelompok.pdf">
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
     </td>
     <td align="center" width="33%">
-      <h1>📋</h1>
+      <h1><a href="link-pdf-profil-project-kamu.pdf">📋</a></h1>
       <h3>Profil Project</h3>
       <p><sub>Latar belakang, tujuan,<br>ruang lingkup, dan fitur utama.</sub></p>
       <a href="sprint-1/02-Profil-Project.pdf">
@@ -74,7 +74,7 @@
       <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
     </td>
     <td align="center" width="33%">
-      <h1>📜</h1>
+      <h1><a href="link-pdf-project-charter-kamu.pdf">📜</a></h1>
       <h3>Project Charter</h3>
       <p><sub>Jadwal, deliverables, risiko,<br>dan kesepakatan bersama.</sub></p>
       <a href="sprint-1/03-Project-Charter.pdf">
