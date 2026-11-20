@@ -34,8 +34,6 @@
 | 3 | [adeirfansyah] | [250504124] | 💻 Developer | [@adeirfansyah-sketch](https://github.com/username) |
 | 4 | [syarifahtanisha] | [250504127] | 🎨 UI/UX Designer | [@nairaphone24](https://github.com/username) |
 
-## 📂 Dokumen Sprint 1
-
 <h2 align="center">📂 DOKUMEN SPRINT 1 📂</h2>
 <p align="center"><i>Fondasi project kami: kenali tim, pahami tujuan, dan sepakati rencana.</i></p>
 
@@ -91,21 +89,11 @@
 
 <br>
 
-<details>
-<summary><b>🔎 Klik untuk melihat ringkasan isi tiap dokumen</b></summary>
-<br>
-
 | Dokumen | Isi Utama |
 |:--------|:----------|
 | 👥 **Profil Kelompok** | Identitas tim, daftar anggota, pembagian tugas, aturan dan media komunikasi |
 | 📋 **Profil Project** | Latar belakang, rumusan masalah, tujuan, manfaat, ruang lingkup, fitur, metodologi |
 | 📜 **Project Charter** | Ringkasan, sasaran, deliverables, milestone, stakeholder, risiko, persetujuan |
-
-</details>
-
-<p align="center">
-  <sub>🕒 Terakhir diperbarui: [dd/mm/yyyy] &nbsp;|&nbsp; ✍️ Disusun oleh <b>[Nama Kelompok]</b></sub>
-</p>
 
 ## 🗂️ Struktur Repository
 
