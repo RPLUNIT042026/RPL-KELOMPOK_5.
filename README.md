@@ -16,9 +16,9 @@
 
 ## 📌 Tentang Project
 
-[Jelaskan secara singkat apa project ini, masalah yang diselesaikan, dan siapa penggunanya.]
+[coba coba dulu.]
 
-**🎯 Tujuan:** [Tujuan utama project]
+**🎯 Tujuan:** [belajar]
 
 ## ✨ Rencana Fitur
 
@@ -27,15 +27,14 @@
 - [ ] [Fitur 3]
 - [ ] [Fitur 4]
 
-## 👥 Tim Kami — [Nama Kelompok]
+## 👥 Tim Kami — [RPL KELOMPOK 5]
 
 | No | Nama | NIM | Peran | GitHub |
 |----|------|-----|-------|--------|
-| 1 | [Nama Anggota 1] | [NIM] | 👑 Project Manager | [@username](https://github.com/username) |
-| 2 | [Nama Anggota 2] | [NIM] | 🔍 System Analyst | [@username](https://github.com/username) |
-| 3 | [Nama Anggota 3] | [NIM] | 💻 Developer | [@username](https://github.com/username) |
-| 4 | [Nama Anggota 4] | [NIM] | 🎨 UI/UX Designer | [@username](https://github.com/username) |
-| 5 | [Nama Anggota 5] | [NIM] | 🧪 Tester / QA | [@username](https://github.com/username) |
+| 1 | [zamzamieffendi] | [NIM] | 👑 Project Manager | [@username](https://github.com/username) |
+| 2 | [ilhambudiman] | [NIM] | 🔍 System Analyst | [@username](https://github.com/username) |
+| 3 | [adeirfansyah] | [NIM] | 💻 Developer | [@username](https://github.com/username) |
+| 4 | [syarifahtanisha] | [NIM] | 🎨 UI/UX Designer | [@username](https://github.com/username) |
 
 ## 📂 Dokumen Sprint 1
 
