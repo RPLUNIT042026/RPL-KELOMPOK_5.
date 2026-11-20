@@ -2,8 +2,8 @@
   <img src="assets/banner.png" alt="Banner Tim" width="100%">
 </p>
 
-<h1 align="center">🚀 [NAMA PROJECT]</h1>
-<p align="center"><i>"[Tagline singkat project kalian]"</i></p>
+<h1 align="center">🚀 [icikiwir]</h1>
+<p align="center"><i>"[Bb (belajar bareng)]"</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sprint-1-blue?style=for-the-badge">
@@ -22,19 +22,17 @@
 
 ## ✨ Rencana Fitur
 
-- [ ] [Fitur 1]
-- [ ] [Fitur 2]
-- [ ] [Fitur 3]
-- [ ] [Fitur 4]
+- [ ] [HTML]
+- [ ] [CSS]
 
 ## 👥 Tim Kami — [RPL KELOMPOK 5]
 
 | No | Nama | NIM | Peran | GitHub |
 |----|------|-----|-------|--------|
-| 1 | [zamzamieffendi] | [NIM] | 👑 Project Manager | [@username](https://github.com/username) |
-| 2 | [ilhambudiman] | [NIM] | 🔍 System Analyst | [@username](https://github.com/username) |
-| 3 | [adeirfansyah] | [NIM] | 💻 Developer | [@username](https://github.com/username) |
-| 4 | [syarifahtanisha] | [NIM] | 🎨 UI/UX Designer | [@username](https://github.com/username) |
+| 1 | [zamzamieffendi] | [NIM] | 👑 Project Manager | [@zamzamiksp](https://github.com/username) |
+| 2 | [ilhambudiman] | [NIM] | 🔍 System Analyst | [@ilhamBudiman1805](https://github.com/username) |
+| 3 | [adeirfansyah] | [NIM] | 💻 Developer | [@adeirfansyah-sketch](https://github.com/username) |
+| 4 | [syarifahtanisha] | [NIM] | 🎨 UI/UX Designer | [@nairaphone24](https://github.com/username) |
 
 ## 📂 Dokumen Sprint 1
 
