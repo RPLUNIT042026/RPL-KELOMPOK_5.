@@ -121,4 +121,4 @@
 
 ---
 
-<p align="center">Dibuat dengan ❤️ oleh <b>[Nama Kelompok]</b> · [Nama Kampus] · [Tahun]</p>
+<p align="center">Dibuat dengan ❤️ 
