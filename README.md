@@ -22,8 +22,7 @@
 
 ## ✨ Rencana Fitur
 
-- [ ] [HTML]
-- [ ] [CSS]
+[HTML] [CSS]
 
 ## 👥 Tim Kami — [RPL KELOMPOK 5]
 
