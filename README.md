@@ -2,8 +2,8 @@
   <img src="assets/banner.png" alt="Banner Tim" width="100%">
 </p>
 
-<h1 align="center">🚀 [RPL KELOMPOK_5]</h1>
-<p align="center"><i>"[Bb (belajar bareng)]"</i></p>
+<h1 align="center">🚀 [KELOMPOK_5]</h1>
+<p align="center"><i>"[BB (Belajar Bareng)]"</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sprint-1-blue?style=for-the-badge">
