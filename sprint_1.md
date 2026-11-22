@@ -268,15 +268,17 @@ Menguji akurasi dan kegunaan bersama calon pengguna
 
 <details>
 <summary><b>✍️ Persetujuan</b></summary>
+
 <br>
 
-| Nama | Jabatan | 
-|------|---------|:
-| Zam Zami Effendi | Project Manager | 
-| Cut Alna Fadhilla, S.Kom., M.si | Pembimbing | 
+| Nama | Jabatan |
+|:-----|:--------|
+| Zam Zami Effendi | Project Manager |
+| Cut Alna Fadhilla, S.Kom., M.Si | Pembimbing |
 
 </details>
 
+<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
