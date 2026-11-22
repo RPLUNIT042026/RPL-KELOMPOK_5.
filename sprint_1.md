@@ -1,8 +1,7 @@
 <div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e2a,100:2ecc71&height=220&section=header&text=SPRINT%201&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Profil%20Kelompok%20%E2%80%A2%20Profil%20Proyek%20%E2%80%A2%20Project%20Charter&descSize=18&descAlignY=62" width="100%" />
-
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e2a,100:2ecc71&height=220&section=header&text=SPRINT%201&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Profil%20Kelompok%20%E2%80%A2%20Profil%20Proyek%20%E2%80%A2%20Project%20Charter&descSize=18&descAlignY=62" width="100%" />
+  
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TANI-SCAN&fontSize=80&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%E2%9C%A6%20SPRINT%201%20%E2%80%A2%20PROFIL%20%26%20PROJECT%20CHARTER%20%E2%9C%A6&descSize=20&descAlignY=65" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F1C40F&center=true&vCenter=true&width=700&lines=Scan+Daun%2C+Kenali+Penyakit%2C+Selamatkan+Panen+%F0%9F%8C%BF;Teknologi+AI+untuk+Petani+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Dibuat+dengan+kerja+sama+%26+semangat+%E2%9C%A8" alt="Typing" />
@@ -38,7 +37,7 @@
 
 <div align="center">
 
-# 👥 PROFIL KELOMPOK
+# PROFIL KELOMPOK
 
 ### ✦ KELOMPOK 5 ✦
 
@@ -48,9 +47,10 @@
 
 | | |
 |:---|:---|
-| 🏫 **Institusi** | UNIVERSITAS SAMUDERA |
-| 📚 **Mata Kuliah** | Isi nama mata kuliah |
-| 🎓 **Pembimbing** | Isi nama dosen / pembimbing |
+| 🏫 **Institusi** | Universitas Samudra |
+| 📚 **Program studi** | Informatika |
+| 📚 **Mata Kuliah** | Rekayasa Perangkat Lunak |
+| 🎓 **Pembimbing** |Cut Alna Fadhilla, S.kom., M.si|
 | 📅 **Tahun** | 2026 |
 
 <br>
@@ -60,42 +60,32 @@
 <table align="center">
 <tr>
 
-<td align="center" width="200">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nama1&radius=50&size=140&backgroundColor=b6e3f4,c0aede,d1d4f9" width="130"><br><br>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Raka&hair=short01&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=b6e3f4" width="130"><br><br>
 <b>Nama Anggota 1</b><br>
-<sub>🧭 Project Manager<br>Scrum Master</sub><br><br>
+<sub>🧭 Project Manager<br>Scrum Master &amp; Backend</sub><br><br>
 <a href="https://github.com/username1"><img src="https://img.shields.io/badge/GitHub-@username1-181717?style=flat-square&logo=github"></a>
 </td>
 
-<td align="center" width="200">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nama2&radius=50&size=140&backgroundColor=ffd5dc,ffdfbf,c0aede" width="130"><br><br>
-<b>Nama Anggota 2</b><br>
-<sub>🧠 AI / ML Engineer<br>Model & Dataset</sub><br><br>
-<a href="https://github.com/username2"><img src="https://img.shields.io/badge/GitHub-@username2-181717?style=flat-square&logo=github"></a>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Dimas&hair=short07&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=c0aede" width="130"><br><br>
+<b>Ilham Budiman (240504100)</b><br>
+<sub>🧠 UI/UX Designer<br>Model &amp; Dataset</sub><br><br>
+<a href="https://github.com/username2"><img src="https://img.shields.io/badge/GitHub-@ilhambudiman1805-181717?style=flat-square&logo=github"></a>
 </td>
 
-<td align="center" width="200">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nama3&radius=50&size=140&backgroundColor=d1d4f9,b6e3f4,ffdfbf" width="130"><br><br>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Bagas&hair=short12&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=d1d4f9" width="130"><br><br>
 <b>Nama Anggota 3</b><br>
-<sub>⚙️ Backend Developer<br>API & Integrasi</sub><br><br>
+<sub>💻 Frontend Developer<br>Antarmuka Web</sub><br><br>
 <a href="https://github.com/username3"><img src="https://img.shields.io/badge/GitHub-@username3-181717?style=flat-square&logo=github"></a>
 </td>
 
-</tr>
-<tr>
-
-<td align="center" width="200">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nama4&radius=50&size=140&backgroundColor=c0aede,ffd5dc,b6e3f4" width="130"><br><br>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Aulia&hair=long16&earringsProbability=100&features=blush&featuresProbability=100&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=ffd5dc" width="130"><br><br>
 <b>Nama Anggota 4</b><br>
-<sub>💻 Frontend Developer<br>Antarmuka Web</sub><br><br>
+<sub>🎨 AI / ML Engineer<br>Dokumentasi</sub><br><br>
 <a href="https://github.com/username4"><img src="https://img.shields.io/badge/GitHub-@username4-181717?style=flat-square&logo=github"></a>
-</td>
-
-
-
-<td align="center" width="200">
-<br>
-<sub><i>Avatar dibuat otomatis oleh DiceBear.<br>Ganti dengan foto asli:<br><code>https://github.com/USERNAME.png</code></i></sub>
 </td>
 
 </tr>
@@ -105,7 +95,7 @@
 
 <br>
 
-
+> 🤝 **Aturan kerja tim:** stand-up singkat tiap hari kerja (maks. 15 menit) • semua perubahan kode lewat *branch* & *pull request* • komunikasi lewat grup chat dan GitHub Issues.
 
 <br>
 
@@ -289,3 +279,32 @@
 
 <div align="center">
 
+# 🏃 RENCANA SPRINT 1
+
+**Tujuan:** menyiapkan fondasi proyek, mulai dari tim, charter, hingga backlog dan desain awal.
+
+</div>
+
+| ID | Tugas | PJ | Status |
+|:--:|-------|:--:|:------:|
+| T-01 | Membentuk tim dan membagi peran | Semua | ✅ |
+| T-02 | Menyusun profil kelompok & proyek | Anggota 4 | ✅ |
+| T-03 | Menyusun project charter | Anggota 1 | 🔄 |
+| T-04 | Menyiapkan repositori GitHub | Anggota 1 | ✅ |
+| T-05 | Menyusun product backlog | Anggota 1 | 🔄 |
+| T-06 | Riset dan pemilihan dataset | Anggota 2 | 🔄 |
+| T-07 | Membuat wireframe awal | Anggota 4 | ⬜ |
+
+<sub>✅ Selesai &nbsp;•&nbsp; 🔄 Berjalan &nbsp;•&nbsp; ⬜ Belum dimulai</sub>
+
+<br>
+
+<div align="center">
+
+### 🌾 TANI-SCAN, teknologi untuk petani Indonesia 🇮🇩
+
+*Jika proyek ini bermanfaat, jangan lupa beri ⭐ pada repositori ini!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:134e2a,100:0f2027&height=140&section=footer" width="100%" />
+
+</div>
