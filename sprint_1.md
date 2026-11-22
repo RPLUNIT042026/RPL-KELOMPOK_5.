@@ -62,9 +62,9 @@
 
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Raka&hair=short01&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=b6e3f4" width="130"><br><br>
-<b>Nama Anggota 1</b><br>
+<b>Zam Zami Effendi (240504096) 1</b><br>
 <sub>🧭 Project Manager<br>Scrum Master &amp; Backend</sub><br><br>
-<a href="https://github.com/username1"><img src="https://img.shields.io/badge/GitHub-@username1-181717?style=flat-square&logo=github"></a>
+<a href="https://github.com/username1"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?style=flat-square&logo=github"></a>
 </td>
 
 <td align="center" width="190">
@@ -171,9 +171,9 @@
 | | |
 |:---|:---|
 | **Judul Proyek** | TANI-SCAN: Deteksi Penyakit Tanaman Berbasis AI |
-| **Project Manager** | Nama Anggota 1 |
-| **Pembimbing** | Nama Dosen / Pembimbing |
-| **Periode** | DD/MM/2026 sampai DD/MM/2026 |
+| **Project Manager** | Zam Zami Effendi |
+| **Pembimbing** | Cut Alna Fadhilla, S.kom., M.si |
+| **Periode** | 23/11/2026 sampai UAS |
 | **Metodologi** | Agile Scrum |
 
 <details open>
@@ -274,28 +274,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-# 🏃 RENCANA SPRINT 1
-
-**Tujuan:** menyiapkan fondasi proyek, mulai dari tim, charter, hingga backlog dan desain awal.
-
-</div>
-
-| ID | Tugas | PJ | Status |
-|:--:|-------|:--:|:------:|
-| T-01 | Membentuk tim dan membagi peran | Semua | ✅ |
-| T-02 | Menyusun profil kelompok & proyek | Anggota 4 | ✅ |
-| T-03 | Menyusun project charter | Anggota 1 | 🔄 |
-| T-04 | Menyiapkan repositori GitHub | Anggota 1 | ✅ |
-| T-05 | Menyusun product backlog | Anggota 1 | 🔄 |
-| T-06 | Riset dan pemilihan dataset | Anggota 2 | 🔄 |
-| T-07 | Membuat wireframe awal | Anggota 4 | ⬜ |
-
-<sub>✅ Selesai &nbsp;•&nbsp; 🔄 Berjalan &nbsp;•&nbsp; ⬜ Belum dimulai</sub>
 
 <br>
 
