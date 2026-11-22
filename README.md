@@ -1,123 +1,39 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner Tim" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center"> KELOMPOK_5</h1>
-<p align="center"><i>"[BB (Belajar Bareng)]"</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sprint-1-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-On%20Progress-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Team-NamaTim-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Method-Agile%20Scrum-purple?style=for-the-badge">
-</p>
-
----
-
-## 📌 Tentang Project
-
-[coba coba dulu.]
-
-**🎯 Tujuan:** [Belajar Bareng]
-
-## ✨ Rencana Fitur
-
-[masih][dipikirkan]
-
-## 👥 Tim Kami — [RPL KELOMPOK 5]
-
-| No | Nama | NIM | Peran | GitHub |
-|----|------|-----|-------|--------|
-| 1 | [zamzamieffendi] | [240504096] | 👑 Project Manager | [@zamzamiksp](https://github.com/username) |
-| 2 | [ilhambudiman] | [240504100] | 🔍 System Analyst | [@ilhamBudiman1805](https://github.com/username) |
-| 3 | [adeirfansyah] | [250504124] | 💻 Developer | [@adeirfansyah-sketch](https://github.com/username) |
-| 4 | [syarifahtanisha] | [250504127] | 🎨 UI/UX Designer | [@nairaphone24](https://github.com/username) |
-
-<h2 align="center">📂 DOKUMEN SPRINT 1 📂</h2>
-<p align="center"><i>Fondasi project kami: kenali tim, pahami tujuan, dan sepakati rencana.</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white">
-  <img src="https://img.shields.io/badge/Dokumen-3%20dari%203-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Selesai-success?style=for-the-badge">
-</p>
-
-<p align="center">
-  <code>▰▰▰▰▰▰▰▰▰▰ 100%</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e2a,100:2ecc71&height=260&section=header&text=WELCOME&fontSize=90&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=to%20our%20repository&descSize=24&descAlignY=60" width="100%" />
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h1><a href="sprint-1/01-Profil-Kelompok.pdf">👥</a></h1>
-      <h3>Profil Kelompok</h3>
-      <p><sub>Siapa kami, peran masing-masing,<br>dan aturan kerja tim.</sub></p>
-      <a href="sprint-1/01-Profil-Kelompok.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-8A2BE2?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-01-8A2BE2?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-    <td align="center" width="33%">
-      <h1><a href="link-pdf-profil-project-kamu.pdf">📋</a></h1>
-      <h3>Profil Project</h3>
-      <p><sub>Latar belakang, tujuan,<br>ruang lingkup, dan fitur utama.</sub></p>
-      <a href="sprint-1/02-Profil-Project.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-FF8C00?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-02-FF8C00?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-    <td align="center" width="33%">
-      <h1><a href="link-pdf-project-charter-kamu.pdf">📜</a></h1>
-      <h3>Project Charter</h3>
-      <p><sub>Jadwal, deliverables, risiko,<br>dan kesepakatan bersama.</sub></p>
-      <a href="sprint-1/03-Project-Charter.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-0A84FF?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-03-0A84FF?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=2ECC71&center=true&vCenter=true&width=600&lines=Hai%2C+Selamat+Datang!+%F0%9F%91%8B;Senang+kamu+mampir+ke+sini+%E2%9C%A8;Yuk%2C+kenalan+sama+karya+kami+%F0%9F%8C%BF" alt="Typing SVG" />
+
+<br><br>
+
+# 🌿 T A N I - S C A N
+
+**Scan Daun, Kenali Penyakit, Selamatkan Panen.**
 
 <br>
 
-| Dokumen | Isi Utama |
-|:--------|:----------|
-| 👥 **Profil Kelompok** | Identitas tim, daftar anggota, pembagian tugas, aturan dan media komunikasi |
-| 📋 **Profil Project** | Latar belakang, rumusan masalah, tujuan, manfaat, ruang lingkup, fitur, metodologi |
-| 📜 **Project Charter** | Ringkasan, sasaran, deliverables, milestone, stakeholder, risiko, persetujuan |
+![Web App](https://img.shields.io/badge/WEB-APP-2ecc71?style=for-the-badge&logo=googlechrome&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI-POWERED-134e2a?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Made With Love](https://img.shields.io/badge/MADE%20WITH-LOVE-e74c3c?style=for-the-badge&logo=githubsponsors&logoColor=white)
 
-## 🗂️ Struktur Repository
-
-```
-.
-├── README.md
-├── assets/          # logo dan banner
-├── sprint-1/        # dokumen Sprint 1
-└── src/             # source code (mulai Sprint 3)
-```
-
-## 🗺️ Roadmap
-
-- [x] **Sprint 1** — Perencanaan & Dokumentasi
-- [ ] **Sprint 2** — Analisis Kebutuhan & Desain
-- [ ] **Sprint 3** — Implementasi
-- [ ] **Sprint 4** — Pengujian & Penyerahan
-
-## 🤝 Aturan Kolaborasi
-
-1. Selalu jalankan `git pull origin main` sebelum mulai bekerja.
-2. Kerjakan tugas di branch masing-masing (`git checkout -b nama-fitur`).
-3. Gunakan format commit: `docs:`, `feat:`, `fix:`, atau `style:`.
-4. Gabungkan pekerjaan lewat Pull Request.
+<br>
 
 ---
 
-<p align="center">Dibuat Dengan Cinta❤️
+### 
+
+## ✦ KELOMPOK 5 ✦
+
+---
+
+<br>
+
+*"Teknologi lahir dari ide kecil, tumbuh bersama kerja sama."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:134e2a,100:0f2027&height=140&section=footer" width="100%" />
+
+</div>
