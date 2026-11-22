@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner Tim" width="100%">
 </p>
 
-<h1 align="center">🚀 [icikiwir]</h1>
+<h1 align="center">🚀 [RPL KELOMPOK_5]</h1>
 <p align="center"><i>"[Bb (belajar bareng)]"</i></p>
 
 <p align="center">
