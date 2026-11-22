@@ -76,9 +76,9 @@
 
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Bagas&hair=short12&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=d1d4f9" width="130"><br><br>
-<b>Nama Anggota 3</b><br>
+<b>Ade Irfansyah (240504124)</b><br>
 <sub>💻 Frontend Developer<br>Antarmuka Web</sub><br><br>
-<a href="https://github.com/username3"><img src="https://img.shields.io/badge/GitHub-@username3-181717?style=flat-square&logo=github"></a>
+<a href="https://github.com/username3"><img src="https://img.shields.io/badge/GitHub-@adekempot376-181717?style=flat-square&logo=github"></a>
 </td>
 
 <td align="center" width="190">
