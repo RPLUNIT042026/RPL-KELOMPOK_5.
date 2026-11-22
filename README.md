@@ -22,7 +22,7 @@
 
 ## ✨ Rencana Fitur
 
-masih dipikirkan
+[masih][dipikirkan]
 
 ## 👥 Tim Kami — [RPL KELOMPOK 5]
 
@@ -120,4 +120,4 @@ masih dipikirkan
 
 ---
 
-<p align="center">Dibuat dengan ❤️ 
+<p align="center">Dibuat Dengan Cinta❤️ 
