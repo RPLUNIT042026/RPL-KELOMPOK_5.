@@ -26,7 +26,7 @@
 
 ## ✦ DAFTAR ISI ✦
 
-[👥 Profil Kelompok](#-profil-kelompok) &nbsp;•&nbsp; [🌱 Profil Proyek](#-profil-proyek) &nbsp;•&nbsp; [📋 Project Charter](#-project-charter) &nbsp;•&nbsp; [🏃 Rencana Sprint](#-rencana-sprint-1)
+[👥 Profil Kelompok](#-profil-kelompok) &nbsp;•&nbsp; [🌱 Profil Proyek](#-profil-proyek) &nbsp;•&nbsp; [📋 Project Charter](#-project-charter) &nbsp;•&nbsp; 
 
 </div>
 
@@ -40,7 +40,7 @@
 
 # 👥 PROFIL KELOMPOK
 
-### ✦ NAMA KELOMPOK KAMI ✦
+### ✦ KELOMPOK 5 ✦
 
 *"Teknologi lahir dari ide kecil, tumbuh bersama kerja sama."*
 
@@ -48,7 +48,7 @@
 
 | | |
 |:---|:---|
-| 🏫 **Institusi** | Isi nama kampus / sekolah |
+| 🏫 **Institusi** | UNIVERSITAS SAMUDERA |
 | 📚 **Mata Kuliah** | Isi nama mata kuliah |
 | 🎓 **Pembimbing** | Isi nama dosen / pembimbing |
 | 📅 **Tahun** | 2026 |
@@ -91,12 +91,7 @@
 <a href="https://github.com/username4"><img src="https://img.shields.io/badge/GitHub-@username4-181717?style=flat-square&logo=github"></a>
 </td>
 
-<td align="center" width="200">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nama5&radius=50&size=140&backgroundColor=ffdfbf,d1d4f9,ffd5dc" width="130"><br><br>
-<b>Nama Anggota 5</b><br>
-<sub>🎨 UI/UX Designer<br>Dokumentasi</sub><br><br>
-<a href="https://github.com/username5"><img src="https://img.shields.io/badge/GitHub-@username5-181717?style=flat-square&logo=github"></a>
-</td>
+
 
 <td align="center" width="200">
 <br>
@@ -110,7 +105,7 @@
 
 <br>
 
-> 🤝 **Aturan kerja tim:** stand-up singkat tiap hari kerja (maks. 15 menit) • semua perubahan kode lewat *branch* & *pull request* • komunikasi lewat grup chat dan GitHub Issues.
+
 
 <br>
 
@@ -294,32 +289,3 @@
 
 <div align="center">
 
-# 🏃 RENCANA SPRINT 1
-
-**Tujuan:** menyiapkan fondasi proyek, mulai dari tim, charter, hingga backlog dan desain awal.
-
-</div>
-
-| ID | Tugas | PJ | Status |
-|:--:|-------|:--:|:------:|
-| T-01 | Membentuk tim dan membagi peran | Semua | ✅ |
-| T-02 | Menyusun profil kelompok & proyek | Anggota 5 | ✅ |
-| T-03 | Menyusun project charter | Anggota 1 | 🔄 |
-| T-04 | Menyiapkan repositori GitHub | Anggota 3 | ✅ |
-| T-05 | Menyusun product backlog | Anggota 1 | 🔄 |
-| T-06 | Riset dan pemilihan dataset | Anggota 2 | 🔄 |
-| T-07 | Membuat wireframe awal | Anggota 5 | ⬜ |
-
-<sub>✅ Selesai &nbsp;•&nbsp; 🔄 Berjalan &nbsp;•&nbsp; ⬜ Belum dimulai</sub>
-
-<br>
-
-<div align="center">
-
-### 🌾 TANI-SCAN, teknologi untuk petani Indonesia 🇮🇩
-
-*Jika proyek ini bermanfaat, jangan lupa beri ⭐ pada repositori ini!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:134e2a,100:0f2027&height=140&section=footer" width="100%" />
-
-</div>
