@@ -62,7 +62,7 @@
 
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Raka&hair=short01&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=b6e3f4" width="130"><br><br>
-<b>Zam Zami Effendi (240504096) 1</b><br>
+<b>Zam Zami Effendi (240504096) </b><br>
 <sub>🧭 Project Manager<br>Scrum Master &amp; Backend</sub><br><br>
 <a href="https://github.com/username1"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?style=flat-square&logo=github"></a>
 </td>
@@ -85,7 +85,7 @@
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Aulia&hair=long16&earringsProbability=100&features=blush&featuresProbability=100&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=ffd5dc" width="130"><br><br>
 <b>Syarifah Tanisha Naira (250504127) </b><br>
 <sub>🎨 AI / ML Engineer<br>Dokumentasi</sub><br><br>
-<a href="https://github.com/username4"><img src="https://img.shields.io/badge/GitHub-@nairaphone24-181717?style=flat-square&logo=github"></a>
+<a href="https://github.com/username4"><img src="https://img.shields.io/badge/GitHub-@nairaphone24 -181717?style=flat-square&logo=github"></a>
 </td>
 
 </tr>
