@@ -2,7 +2,8 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e2a,100:2ecc71&height=220&section=header&text=SPRINT%201&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Profil%20Kelompok%20%E2%80%A2%20Profil%20Proyek%20%E2%80%A2%20Project%20Charter&descSize=18&descAlignY=62" width="100%" />
   
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TANI-SCAN&fontSize=80&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%E2%9C%A6%20SPRINT%201%20%E2%80%A2%20PROFIL%20%26%20PROJECT%20CHARTER%20%E2%9C%A6&descSize=20&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?
+type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TANI-SCAN&fontSize=80&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%E2%9C%A6%20SPRINT%201%20%E2%80%A2%20PROFIL%20%26%20PROJECT%20CHARTER%20%E2%9C%A6&descSize=20&descAlignY=65" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F1C40F&center=true&vCenter=true&width=700&lines=Scan+Daun%2C+Kenali+Penyakit%2C+Selamatkan+Panen+%F0%9F%8C%BF;Teknologi+AI+untuk+Petani+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Dibuat+dengan+kerja+sama+%26+semangat+%E2%9C%A8" alt="Typing" />
 
@@ -50,50 +51,49 @@
 | 🏫 **Institusi** | Universitas Samudra |
 | 📚 **Program studi** | Informatika |
 | 📚 **Mata Kuliah** | Rekayasa Perangkat Lunak |
-| 🎓 **Pembimbing** |Cut Alna Fadhilla, S.kom., M.si|
+| 🎓 **Pembimbing** |Cut Alna Fadhilla, S.Kom., M.si|
 | 📅 **Tahun** | 2026 |
 
 <br>
 
 ## 🌟 MEET THE TEAM 🌟
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center" width="190">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Raka&hair=short01&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=b6e3f4" width="130"><br><br>
-<b>Zam Zami Effendi (240504096) 1</b><br>
-<sub>🧭 Project Manager<br>Scrum Master &amp; Backend</sub><br><br>
-<a href="https://github.com/username1"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?style=flat-square&logo=github"></a>
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Zamzami&amp;hair=short05&amp;hairColor=0e0e0e&amp;skinColor=ecad80&amp;glasses=variant02&amp;glassesProbability=100&amp;earringsProbability=0&amp;backgroundColor=b6e3f4" width="150"><br>
+<b>Zam Zami Effendi (240504096)</b><br>
+<sub>👑 Project Manager</sub><br><br>
+<a href="https://github.com/zamzamiksp"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?logo=github"></a>
 </td>
-
 <td align="center" width="190">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Dimas&hair=short07&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=c0aede" width="130"><br><br>
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Ilham&amp;hair=short12&amp;hairColor=6a4e35&amp;skinColor=f2d3b1&amp;features=mustache&amp;featuresProbability=100&amp;glassesProbability=0&amp;earringsProbability=0&amp;backgroundColor=c0aede" width="150"><br>
 <b>Ilham Budiman (240504100)</b><br>
-<sub>🧠 UI/UX Designer<br>Model &amp; Dataset</sub><br><br>
-<a href="https://github.com/username2"><img src="https://img.shields.io/badge/GitHub-@ilhambudiman1805-181717?style=flat-square&logo=github"></a>
+<sub>🔍 System Analyst</sub><br><br>
+<a href="https://github.com/ilhamBudiman1805"><img src="https://img.shields.io/badge/GitHub-@ilhamBudiman1805-181717?logo=github"></a>
 </td>
-
 <td align="center" width="190">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Bagas&hair=short12&earringsProbability=0&featuresProbability=0&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=d1d4f9" width="130"><br><br>
-<b>Ade Irfansyah (240504124)</b><br>
-<sub>💻 Frontend Developer<br>Antarmuka Web</sub><br><br>
-<a href="https://github.com/username3"><img src="https://img.shields.io/badge/GitHub-@adekempot376-181717?style=flat-square&logo=github"></a>
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=AdeIrfansyah&amp;hair=short18&amp;hairColor=ac6511&amp;skinColor=9e5622&amp;features=freckles&amp;featuresProbability=100&amp;earrings=variant01&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=d1d4f9" width="150"><br>
+<b>Ade Irfansyah (250504124)</b><br>
+<sub>💻 Developer</sub><br><br>
+<a href="https://github.com/adeirfansyah-sketch"><img src="https://img.shields.io/badge/GitHub-@adeirfansyah--sketch-181717?logo=github"></a>
 </td>
-
 <td align="center" width="190">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Aulia&hair=long16&earringsProbability=100&features=blush&featuresProbability=100&glassesProbability=0&skinColor=f2d3b1&radius=50&size=140&backgroundColor=ffd5dc" width="130"><br><br>
-<b>Syarifah Tanisha Naira (250504127) </b><br>
-<sub>🎨 AI / ML Engineer<br>Dokumentasi</sub><br><br>
-<a href="https://github.com/username4"><img src="https://img.shields.io/badge/GitHub-@nairaphone24-181717?style=flat-square&logo=github"></a>
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Tanisha&amp;hair=long16&amp;hairColor=592454&amp;skinColor=f2d3b1&amp;features=blush&amp;featuresProbability=100&amp;earrings=variant03&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=ffd5dc" width="150"><br>
+<b>Syarifah Tanisha (250504127)</b><br>
+<sub>🎨 UI/UX Designer</sub><br><br>
+<a href="https://github.com/nairaphone24"><img src="https://img.shields.io/badge/GitHub-@nairaphone24-181717?logo=github"></a>
 </td>
-
 </tr>
 </table>
 
-</div>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
+
+<div align="center">
 
 > 🤝 **Aturan kerja tim:** stand-up singkat tiap hari kerja (maks. 15 menit) • semua perubahan kode lewat *branch* & *pull request* • komunikasi lewat grup chat dan GitHub Issues.
 
@@ -172,8 +172,8 @@
 |:---|:---|
 | **Judul Proyek** | TANI-SCAN: Deteksi Penyakit Tanaman Berbasis AI |
 | **Project Manager** | Zam Zami Effendi |
-| **Pembimbing** | Cut Alna Fadhilla, S.kom., M.si |
-| **Periode** | 23/11/2026 sampai UAS |
+| **Pembimbing** | Cut Alna Fadhilla, S.Kom., M.si |
+| **Periode** | 20/11/2026 sampai selesai |
 | **Metodologi** | Agile Scrum |
 
 <details open>
@@ -184,13 +184,19 @@
 
 **Tujuan umum:** Membangun aplikasi web berbasis AI untuk membantu pengguna mendeteksi kemungkinan penyakit tanaman dari gambar daun.
 
+
 **Tujuan khusus:**
-1. Mengembangkan model AI untuk klasifikasi penyakit daun
-2. Membuat antarmuka web yang sederhana dan responsif
-3. Menyediakan informasi penyakit dan saran penanganan awal
-4. Menguji akurasi dan kegunaan bersama calon pengguna
+
+Mengembangkan model AI untuk klasifikasi penyakit daun
+
+Membuat antarmuka web yang sederhana dan responsif
+
+Menyediakan informasi penyakit dan saran penanganan awal
+
+Menguji akurasi dan kegunaan bersama calon pengguna
 
 </details>
+
 
 <details>
 <summary><b>🎯 Ruang Lingkup</b></summary>
@@ -279,7 +285,7 @@
 
 <div align="center">
 
-### 🌾 TANI-SCAN, teknologi untuk petani Indonesia 🇮🇩
+### 🌾 TANI-SCAN, teknologi untuk petani Indonesia
 
 *Jika proyek ini bermanfaat, jangan lupa beri ⭐ pada repositori ini!*
 
