@@ -1,135 +1,197 @@
-TANI-SCAN
+<div align="center">
 
-Smart Agriculture | AI-Powered Plant Disease Detection
+# 🌿 TANI-SCAN
 
-Kelompok: 5
+### Deteksi Penyakit Tanaman Lewat Foto Daun, Cepat dan Berbasis AI
 
-Program Studi: Informatika
+![Status](https://img.shields.io/badge/status-aktif-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-web-blue?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI-powered-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 
-Universitas: Universitas Samudra
+<!-- Ganti dengan logo / banner proyek kalian -->
+<img src="docs/banner.png" alt="Banner TANI-SCAN" width="85%">
 
-Mata Kuliah: Rekayasa Perangkat Lunak
+[🚀 Demo](#-demo) · [✨ Fitur](#-fitur-utama) · [⚙️ Instalasi](#️-instalasi) · [👥 Tim](#-tim-pengembang)
 
----
-
-1. PROFIL KELOMPOK
-
-Tentang Kelompok
-
-Kelompok 5 merupakan tim mahasiswa Informatika Universitas Samudra yang mengembangkan proyek teknologi berbasis Artificial Intelligence (AI) untuk membantu menyelesaikan permasalahan di bidang pertanian.
-
-Anggota Kelompok
-
-No.| Nama| NIM| Tanggung Jawab
-1| [Zam Zami Effendi]| [240504096]| Project Manager & System Analyst
-2| [Ilham Budiman]| [240504100]| UI/UX & Frontend Developer
-3| [Syarifah Tanisha Naira]| [NIM]| AI / Machine Learning Developer
-4| [Ade Irfansyah]| [NIM]| Backend & Database Developer
-
-Tujuan Kelompok:
-
-- Membangun aplikasi yang bermanfaat bagi masyarakat.
-- Menerapkan teknologi AI dalam bidang pertanian.
-- Meningkatkan kemampuan kerja sama dan pengembangan perangkat lunak.
+</div>
 
 ---
 
-2. PROFIL PROJECT
+## 📖 Tentang Proyek
 
-🌿 TANI-SCAN
+**TANI-SCAN** adalah aplikasi berbasis web yang memanfaatkan teknologi **Artificial Intelligence (AI)** untuk mendeteksi kemungkinan penyakit tanaman melalui gambar daun.
 
-TANI-SCAN (Tanaman Identification and Disease Scanner) merupakan aplikasi berbasis web yang dirancang untuk membantu pengguna mengidentifikasi kemungkinan penyakit tanaman melalui gambar daun dengan memanfaatkan teknologi Artificial Intelligence (AI).
+Petani cukup **mengunggah foto daun**, lalu sistem akan menganalisis gambar dan menampilkan **dugaan jenis penyakit**, **tingkat keyakinan**, serta **saran penanganan awal**. Dengan begitu, penyakit tanaman dapat dikenali lebih dini sebelum menyebar dan merugikan hasil panen.
 
-Latar Belakang
-
-Penyakit tanaman merupakan salah satu permasalahan yang dapat menghambat hasil pertanian. Kurangnya pengetahuan dalam mengenali gejala penyakit sering menyebabkan keterlambatan penanganan.
-
-Oleh karena itu, TANI-SCAN dikembangkan sebagai solusi digital untuk membantu pengguna mengenali kemungkinan penyakit tanaman melalui teknologi pengenalan gambar.
-
-Tujuan Project
-
-1. Mempermudah identifikasi awal penyakit tanaman.
-2. Memanfaatkan AI untuk menganalisis gambar daun.
-3. Memberikan informasi mengenai gejala dan penyakit tanaman.
-4. Menyediakan rekomendasi penanganan awal.
-
-Fitur Utama
-
-- Plant Scanner: Mengunggah foto daun tanaman.
-- AI Detection: Menganalisis kemungkinan penyakit tanaman.
-- Disease Information: Menampilkan informasi penyakit dan gejalanya.
-- Treatment Recommendation: Memberikan rekomendasi penanganan.
-- Scan History: Menyimpan riwayat hasil pemindaian.
-
-Teknologi yang Digunakan
-
-Komponen| Teknologi
-Frontend| HTML, CSS, JavaScript
-Framework| Bootstrap
-Backend| Python Flask
-AI| TensorFlow / CNN
-Database| MySQL
-Version Control| GitHub
+> ⚠️ **Catatan:** Hasil deteksi bersifat prediksi awal. Untuk penanganan lebih lanjut, tetap konsultasikan dengan penyuluh pertanian atau ahli agronomi.
 
 ---
 
-3. PROJECT CHARTER
+## 🎯 Latar Belakang
 
-Project Overview
-
-TANI-SCAN merupakan proyek pengembangan aplikasi web berbasis AI yang berfokus pada identifikasi awal penyakit tanaman melalui analisis gambar daun.
-
-Project Objectives
-
-- Menghasilkan aplikasi pendeteksi penyakit tanaman.
-- Membantu pengguna memperoleh informasi awal mengenai kondisi tanaman.
-- Mengintegrasikan teknologi AI dengan aplikasi berbasis web.
-
-Project Scope
-
-Ruang Lingkup:
-
-- Pengembangan website TANI-SCAN.
-- Fitur unggah gambar daun.
-- Analisis gambar menggunakan model AI.
-- Informasi penyakit dan rekomendasi penanganan.
-- Penyimpanan riwayat pemindaian.
-
-Batasan Proyek:
-
-- Sistem hanya memberikan identifikasi awal berdasarkan gambar.
-- Hasil prediksi bergantung pada dataset dan kemampuan model AI.
-- Sistem belum menggantikan pemeriksaan langsung oleh ahli pertanian.
-
-Pembagian Tanggung Jawab
-
-Posisi| Tugas
-Project Manager| Mengatur dan mengawasi proyek
-System Analyst| Menganalisis kebutuhan sistem
-UI/UX & Frontend| Merancang dan membuat tampilan
-AI Developer| Mengembangkan model deteksi
-Backend Developer| Mengelola server dan database
-
-Catatan: Beberapa tanggung jawab dijalankan oleh anggota yang sama sesuai pembagian peran kelompok.
-
-Project Timeline
-
-Sprint| Kegiatan
-Sprint 1| Perencanaan dan dokumentasi proyek
-Sprint 2| Analisis kebutuhan dan desain sistem
-Sprint 3| Pengembangan website dan integrasi AI
-Sprint 4| Pengujian dan penyelesaian aplikasi
-
-Project Deliverables
-
-1. Dokumentasi proyek.
-2. Desain sistem dan database.
-3. Website TANI-SCAN.
-4. Model AI pendeteksi penyakit tanaman.
-5. Laporan hasil pengujian.
+- 🌾 Penyakit tanaman adalah salah satu penyebab utama menurunnya hasil panen.
+- 👨‍🌾 Tidak semua petani mudah mengakses pakar untuk mendiagnosis penyakit.
+- ⏱️ Keterlambatan identifikasi membuat penyakit cepat menyebar.
+- 📱 TANI-SCAN hadir sebagai solusi yang praktis, cepat, dan mudah diakses lewat browser.
 
 ---
 
-TANI-SCAN – Smart Technology for Better Agriculture 🌱
+## ✨ Fitur Utama
 
-Developed by Kelompok 5 | Informatika – Universitas Samudra
+| Fitur | Deskripsi |
+|-------|-----------|
+| 📸 **Unggah Gambar Daun** | Upload foto dari galeri atau ambil langsung lewat kamera |
+| 🤖 **Deteksi Berbasis AI** | Model AI menganalisis pola dan gejala pada daun |
+| 📊 **Tingkat Keyakinan** | Menampilkan persentase akurasi dari setiap prediksi |
+| 💊 **Saran Penanganan** | Rekomendasi tindakan awal untuk setiap penyakit |
+| 🕘 **Riwayat Pemindaian** | Simpan hasil scan sebelumnya untuk dipantau |
+| 🌐 **Berbasis Web** | Tanpa instal, cukup buka lewat browser |
+
+---
+
+## 🔄 Cara Kerja
+
+```
+📷 Unggah Foto Daun
+        ↓
+🧹 Pra-pemrosesan Gambar
+        ↓
+🧠 Analisis Model AI
+        ↓
+📋 Hasil: Penyakit + Tingkat Keyakinan + Saran Penanganan
+```
+
+---
+
+## 🖼️ Demo
+
+<!-- Ganti dengan screenshot aplikasi kalian -->
+| Halaman Beranda | Hasil Deteksi |
+|:---:|:---:|
+| ![Beranda](docs/screenshot-home.png) | ![Hasil](docs/screenshot-result.png) |
+
+🔗 **Live Demo:** [tani-scan.example.com](https://tani-scan.example.com)
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+> Sesuaikan dengan teknologi yang dipakai kelompok kalian.
+
+| Kategori | Teknologi |
+|----------|-----------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python (Flask) |
+| **Model AI** | TensorFlow / Keras (CNN) |
+| **Dataset** | PlantVillage |
+| **Deployment** | Vercel / Render / Hugging Face Spaces |
+
+---
+
+## ⚙️ Instalasi
+
+### Prasyarat
+- Python 3.9+
+- pip
+- Git
+
+### Langkah-langkah
+
+```bash
+# 1. Clone repositori
+git clone https://github.com/username/tani-scan.git
+
+# 2. Masuk ke folder proyek
+cd tani-scan
+
+# 3. (Opsional) Buat virtual environment
+python -m venv venv
+source venv/bin/activate      # Linux/Mac
+venv\Scripts\activate         # Windows
+
+# 4. Instal dependensi
+pip install -r requirements.txt
+
+# 5. Jalankan aplikasi
+python app.py
+```
+
+Buka browser dan akses **http://localhost:5000** 🎉
+
+---
+
+## 📁 Struktur Proyek
+
+```
+tani-scan/
+├── app.py                # Aplikasi utama
+├── model/                # Model AI terlatih
+├── static/               # CSS, JS, dan gambar
+├── templates/            # Halaman HTML
+├── docs/                 # Dokumentasi & screenshot
+├── requirements.txt      # Daftar dependensi
+└── README.md
+```
+
+---
+
+## 🌱 Penyakit yang Dapat Dideteksi
+
+- 🍅 Tomat: Bercak daun, hawar daun, virus keriting
+- 🥔 Kentang: Hawar awal, hawar akhir
+- 🌽 Jagung: Karat daun, bercak daun
+- 🌶️ Cabai: Bercak bakteri
+- ✅ Daun sehat
+
+> *Daftar dapat disesuaikan dengan cakupan model kalian.*
+
+---
+
+## 🗺️ Rencana Pengembangan
+
+- [x] Deteksi penyakit dari foto daun
+- [x] Tampilan web responsif
+- [ ] Penambahan jenis tanaman dan penyakit
+- [ ] Rekomendasi obat dan pestisida organik
+- [ ] Dukungan bahasa daerah
+- [ ] Versi aplikasi mobile
+
+---
+
+## 👥 Tim Pengembang
+
+| Foto | Nama | Peran |
+|:---:|------|-------|
+| <img src="https://github.com/username1.png" width="60"> | **Nama Anggota 1** | Project Manager / AI Engineer |
+| <img src="https://github.com/username2.png" width="60"> | **Nama Anggota 2** | Frontend Developer |
+| <img src="https://github.com/username3.png" width="60"> | **Nama Anggota 3** | Backend Developer |
+| <img src="https://github.com/username4.png" width="60"> | **Nama Anggota 4** | UI/UX Designer |
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi sangat terbuka!
+
+1. Fork repositori ini
+2. Buat branch baru (`git checkout -b fitur/nama-fitur`)
+3. Commit perubahan (`git commit -m "Menambahkan fitur ..."`)
+4. Push ke branch (`git push origin fitur/nama-fitur`)
+5. Buka Pull Request
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+**🌾 TANI-SCAN, teknologi untuk petani Indonesia 🇮🇩**
+
+Jika proyek ini bermanfaat, jangan lupa beri ⭐ pada repositori ini!
+
+</div>
