@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner Tim" width="100%">
 </p>
 
-<h1 align="center">🚀 [KELOMPOK_5]</h1>
+<h1 align="center"> KELOMPOK_5</h1>
 <p align="center"><i>"[BB (Belajar Bareng)]"</i></p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 [coba coba dulu.]
 
-**🎯 Tujuan:** [belajar]
+**🎯 Tujuan:** [Belajar Bareng]
 
 ## ✨ Rencana Fitur
 
-[HTML] [CSS]
+masih dipikirkan
 
 ## 👥 Tim Kami — [RPL KELOMPOK 5]
 
