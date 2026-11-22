@@ -3,8 +3,11 @@
 Smart Agriculture | AI-Powered Plant Disease Detection
 
 Kelompok: 5
+
 Program Studi: Informatika
+
 Universitas: Universitas Samudra
+
 Mata Kuliah: Rekayasa Perangkat Lunak
 
 ---
