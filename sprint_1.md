@@ -1,4 +1,4 @@
-              TANI-SCAN
+TANI-SCAN
 
 Smart Agriculture | AI-Powered Plant Disease Detection
 
