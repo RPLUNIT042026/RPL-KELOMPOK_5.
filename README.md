@@ -1,123 +1,197 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner Tim" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center"> KELOMPOK_5</h1>
-<p align="center"><i>"[BB (Belajar Bareng)]"</i></p>
+# 🌿 TANI-SCAN
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sprint-1-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-On%20Progress-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Team-NamaTim-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Method-Agile%20Scrum-purple?style=for-the-badge">
-</p>
+### Deteksi Penyakit Tanaman Lewat Foto Daun, Cepat dan Berbasis AI
 
----
+![Status](https://img.shields.io/badge/status-aktif-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-web-blue?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/AI-powered-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 
-## 📌 Tentang Project
+<!-- Ganti dengan logo / banner proyek kalian -->
+<img src="docs/banner.png" alt="Banner TANI-SCAN" width="85%">
 
-[coba coba dulu.]
+[🚀 Demo](#-demo) · [✨ Fitur](#-fitur-utama) · [⚙️ Instalasi](#️-instalasi) · [👥 Tim](#-tim-pengembang)
 
-**🎯 Tujuan:** [Belajar Bareng]
-
-## ✨ Rencana Fitur
-
-[masih][dipikirkan]
-
-## 👥 Tim Kami — [RPL KELOMPOK 5]
-
-| No | Nama | NIM | Peran | GitHub |
-|----|------|-----|-------|--------|
-| 1 | [zamzamieffendi] | [240504096] | 👑 Project Manager | [@zamzamiksp](https://github.com/username) |
-| 2 | [ilhambudiman] | [240504100] | 🔍 System Analyst | [@ilhamBudiman1805](https://github.com/username) |
-| 3 | [adeirfansyah] | [250504124] | 💻 Developer | [@adeirfansyah-sketch](https://github.com/username) |
-| 4 | [syarifahtanisha] | [250504127] | 🎨 UI/UX Designer | [@nairaphone24](https://github.com/username) |
-
-<h2 align="center">📂 DOKUMEN SPRINT 1 📂</h2>
-<p align="center"><i>Fondasi project kami: kenali tim, pahami tujuan, dan sepakati rencana.</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white">
-  <img src="https://img.shields.io/badge/Dokumen-3%20dari%203-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Selesai-success?style=for-the-badge">
-</p>
-
-<p align="center">
-  <code>▰▰▰▰▰▰▰▰▰▰ 100%</code>
-</p>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h1><a href="sprint-1/01-Profil-Kelompok.pdf">👥</a></h1>
-      <h3>Profil Kelompok</h3>
-      <p><sub>Siapa kami, peran masing-masing,<br>dan aturan kerja tim.</sub></p>
-      <a href="sprint-1/01-Profil-Kelompok.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-8A2BE2?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-01-8A2BE2?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-    <td align="center" width="33%">
-      <h1><a href="link-pdf-profil-project-kamu.pdf">📋</a></h1>
-      <h3>Profil Project</h3>
-      <p><sub>Latar belakang, tujuan,<br>ruang lingkup, dan fitur utama.</sub></p>
-      <a href="sprint-1/02-Profil-Project.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-FF8C00?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-02-FF8C00?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-    <td align="center" width="33%">
-      <h1><a href="link-pdf-project-charter-kamu.pdf">📜</a></h1>
-      <h3>Project Charter</h3>
-      <p><sub>Jadwal, deliverables, risiko,<br>dan kesepakatan bersama.</sub></p>
-      <a href="sprint-1/03-Project-Charter.pdf">
-        <img src="https://img.shields.io/badge/📖_Baca_Dokumen-0A84FF?style=for-the-badge">
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Dokumen-03-0A84FF?style=flat-square">
-      <img src="https://img.shields.io/badge/Status-✅_Done-brightgreen?style=flat-square">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-| Dokumen | Isi Utama |
-|:--------|:----------|
-| 👥 **Profil Kelompok** | Identitas tim, daftar anggota, pembagian tugas, aturan dan media komunikasi |
-| 📋 **Profil Project** | Latar belakang, rumusan masalah, tujuan, manfaat, ruang lingkup, fitur, metodologi |
-| 📜 **Project Charter** | Ringkasan, sasaran, deliverables, milestone, stakeholder, risiko, persetujuan |
-
-## 🗂️ Struktur Repository
-
-```
-.
-├── README.md
-├── assets/          # logo dan banner
-├── sprint-1/        # dokumen Sprint 1
-└── src/             # source code (mulai Sprint 3)
-```
-
-## 🗺️ Roadmap
-
-- [x] **Sprint 1** — Perencanaan & Dokumentasi
-- [ ] **Sprint 2** — Analisis Kebutuhan & Desain
-- [ ] **Sprint 3** — Implementasi
-- [ ] **Sprint 4** — Pengujian & Penyerahan
-
-## 🤝 Aturan Kolaborasi
-
-1. Selalu jalankan `git pull origin main` sebelum mulai bekerja.
-2. Kerjakan tugas di branch masing-masing (`git checkout -b nama-fitur`).
-3. Gunakan format commit: `docs:`, `feat:`, `fix:`, atau `style:`.
-4. Gabungkan pekerjaan lewat Pull Request.
+</div>
 
 ---
 
-<p align="center">Dibuat Dengan Cinta❤️ 
+## 📖 Tentang Proyek
+
+**TANI-SCAN** adalah aplikasi berbasis web yang memanfaatkan teknologi **Artificial Intelligence (AI)** untuk mendeteksi kemungkinan penyakit tanaman melalui gambar daun.
+
+Petani cukup **mengunggah foto daun**, lalu sistem akan menganalisis gambar dan menampilkan **dugaan jenis penyakit**, **tingkat keyakinan**, serta **saran penanganan awal**. Dengan begitu, penyakit tanaman dapat dikenali lebih dini sebelum menyebar dan merugikan hasil panen.
+
+> ⚠️ **Catatan:** Hasil deteksi bersifat prediksi awal. Untuk penanganan lebih lanjut, tetap konsultasikan dengan penyuluh pertanian atau ahli agronomi.
+
+---
+
+## 🎯 Latar Belakang
+
+- 🌾 Penyakit tanaman adalah salah satu penyebab utama menurunnya hasil panen.
+- 👨‍🌾 Tidak semua petani mudah mengakses pakar untuk mendiagnosis penyakit.
+- ⏱️ Keterlambatan identifikasi membuat penyakit cepat menyebar.
+- 📱 TANI-SCAN hadir sebagai solusi yang praktis, cepat, dan mudah diakses lewat browser.
+
+---
+
+## ✨ Fitur Utama
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| 📸 **Unggah Gambar Daun** | Upload foto dari galeri atau ambil langsung lewat kamera |
+| 🤖 **Deteksi Berbasis AI** | Model AI menganalisis pola dan gejala pada daun |
+| 📊 **Tingkat Keyakinan** | Menampilkan persentase akurasi dari setiap prediksi |
+| 💊 **Saran Penanganan** | Rekomendasi tindakan awal untuk setiap penyakit |
+| 🕘 **Riwayat Pemindaian** | Simpan hasil scan sebelumnya untuk dipantau |
+| 🌐 **Berbasis Web** | Tanpa instal, cukup buka lewat browser |
+
+---
+
+## 🔄 Cara Kerja
+
+```
+📷 Unggah Foto Daun
+        ↓
+🧹 Pra-pemrosesan Gambar
+        ↓
+🧠 Analisis Model AI
+        ↓
+📋 Hasil: Penyakit + Tingkat Keyakinan + Saran Penanganan
+```
+
+---
+
+## 🖼️ Demo
+
+<!-- Ganti dengan screenshot aplikasi kalian -->
+| Halaman Beranda | Hasil Deteksi |
+|:---:|:---:|
+| ![Beranda](docs/screenshot-home.png) | ![Hasil](docs/screenshot-result.png) |
+
+🔗 **Live Demo:** [tani-scan.example.com](https://tani-scan.example.com)
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+> Sesuaikan dengan teknologi yang dipakai kelompok kalian.
+
+| Kategori | Teknologi |
+|----------|-----------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python (Flask) |
+| **Model AI** | TensorFlow / Keras (CNN) |
+| **Dataset** | PlantVillage |
+| **Deployment** | Vercel / Render / Hugging Face Spaces |
+
+---
+
+## ⚙️ Instalasi
+
+### Prasyarat
+- Python 3.9+
+- pip
+- Git
+
+### Langkah-langkah
+
+```bash
+# 1. Clone repositori
+git clone https://github.com/username/tani-scan.git
+
+# 2. Masuk ke folder proyek
+cd tani-scan
+
+# 3. (Opsional) Buat virtual environment
+python -m venv venv
+source venv/bin/activate      # Linux/Mac
+venv\Scripts\activate         # Windows
+
+# 4. Instal dependensi
+pip install -r requirements.txt
+
+# 5. Jalankan aplikasi
+python app.py
+```
+
+Buka browser dan akses **http://localhost:5000** 🎉
+
+---
+
+## 📁 Struktur Proyek
+
+```
+tani-scan/
+├── app.py                # Aplikasi utama
+├── model/                # Model AI terlatih
+├── static/               # CSS, JS, dan gambar
+├── templates/            # Halaman HTML
+├── docs/                 # Dokumentasi & screenshot
+├── requirements.txt      # Daftar dependensi
+└── README.md
+```
+
+---
+
+## 🌱 Penyakit yang Dapat Dideteksi
+
+- 🍅 Tomat: Bercak daun, hawar daun, virus keriting
+- 🥔 Kentang: Hawar awal, hawar akhir
+- 🌽 Jagung: Karat daun, bercak daun
+- 🌶️ Cabai: Bercak bakteri
+- ✅ Daun sehat
+
+> *Daftar dapat disesuaikan dengan cakupan model kalian.*
+
+---
+
+## 🗺️ Rencana Pengembangan
+
+- [x] Deteksi penyakit dari foto daun
+- [x] Tampilan web responsif
+- [ ] Penambahan jenis tanaman dan penyakit
+- [ ] Rekomendasi obat dan pestisida organik
+- [ ] Dukungan bahasa daerah
+- [ ] Versi aplikasi mobile
+
+---
+
+## 👥 Tim Pengembang
+
+| Foto | Nama | Peran |
+|:---:|------|-------|
+| <img src="https://github.com/username1.png" width="60"> | **Nama Anggota 1** | Project Manager / AI Engineer |
+| <img src="https://github.com/username2.png" width="60"> | **Nama Anggota 2** | Frontend Developer |
+| <img src="https://github.com/username3.png" width="60"> | **Nama Anggota 3** | Backend Developer |
+| <img src="https://github.com/username4.png" width="60"> | **Nama Anggota 4** | UI/UX Designer |
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi sangat terbuka!
+
+1. Fork repositori ini
+2. Buat branch baru (`git checkout -b fitur/nama-fitur`)
+3. Commit perubahan (`git commit -m "Menambahkan fitur ..."`)
+4. Push ke branch (`git push origin fitur/nama-fitur`)
+5. Buka Pull Request
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+**🌾 TANI-SCAN, teknologi untuk petani Indonesia 🇮🇩**
+
+Jika proyek ini bermanfaat, jangan lupa beri ⭐ pada repositori ini!
+
+</div>
