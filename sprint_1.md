@@ -2,8 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e2a,100:2ecc71&height=220&section=header&text=SPRINT%201&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Profil%20Kelompok%20%E2%80%A2%20Profil%20Proyek%20%E2%80%A2%20Project%20Charter&descSize=18&descAlignY=62" width="100%" />
   
-<img src="https://capsule-render.vercel.app/api?
-type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TANI-SCAN&fontSize=80&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%E2%9C%A6%20SPRINT%201%20%E2%80%A2%20PROFIL%20%26%20PROJECT%20CHARTER%20%E2%9C%A6&descSize=20&descAlignY=65" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F1C40F&center=true&vCenter=true&width=700&lines=Scan+Daun%2C+Kenali+Penyakit%2C+Selamatkan+Panen+%F0%9F%8C%BF;Teknologi+AI+untuk+Petani+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Dibuat+dengan+kerja+sama+%26+semangat+%E2%9C%A8" alt="Typing" />
 
@@ -38,7 +36,7 @@ type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TA
 
 <div align="center">
 
-# PROFIL KELOMPOK
+# 👥 PROFIL KELOMPOK
 
 ### ✦ KELOMPOK 5 ✦
 
@@ -63,25 +61,25 @@ type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TA
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Zamzami&amp;hair=short05&amp;hairColor=0e0e0e&amp;skinColor=ecad80&amp;glasses=variant02&amp;glassesProbability=100&amp;earringsProbability=0&amp;backgroundColor=b6e3f4" width="150"><br>
 <b>Zam Zami Effendi (240504096)</b><br>
-<sub>👑 Project Manager</sub><br><br>
+<sub>👑 Project Manager & Planning</sub><br><br>
 <a href="https://github.com/zamzamiksp"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?logo=github"></a>
 </td>
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Ilham&amp;hair=short12&amp;hairColor=6a4e35&amp;skinColor=f2d3b1&amp;features=mustache&amp;featuresProbability=100&amp;glassesProbability=0&amp;earringsProbability=0&amp;backgroundColor=c0aede" width="150"><br>
 <b>Ilham Budiman (240504100)</b><br>
-<sub>🔍 System Analyst</sub><br><br>
+<sub>🎨 UI/UX Designer & Frontend Developer</sub><br><br>
 <a href="https://github.com/ilhamBudiman1805"><img src="https://img.shields.io/badge/GitHub-@ilhamBudiman1805-181717?logo=github"></a>
 </td>
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=AdeIrfansyah&amp;hair=short18&amp;hairColor=ac6511&amp;skinColor=9e5622&amp;features=freckles&amp;featuresProbability=100&amp;earrings=variant01&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=d1d4f9" width="150"><br>
 <b>Ade Irfansyah (250504124)</b><br>
-<sub>💻 Developer</sub><br><br>
+<sub>💻 Backend Developer & Tester</sub><br><br>
 <a href="https://github.com/adeirfansyah-sketch"><img src="https://img.shields.io/badge/GitHub-@adeirfansyah--sketch-181717?logo=github"></a>
 </td>
 <td align="center" width="190">
 <img src="https://api.dicebear.com/9.x/adventurer/png?seed=Tanisha&amp;hair=long16&amp;hairColor=592454&amp;skinColor=f2d3b1&amp;features=blush&amp;featuresProbability=100&amp;earrings=variant03&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=ffd5dc" width="150"><br>
 <b>Syarifah Tanisha (250504127)</b><br>
-<sub>🎨 UI/UX Designer</sub><br><br>
+<sub>🔍 System Analyst & Documentation</sub><br><br>
 <a href="https://github.com/nairaphone24"><img src="https://img.shields.io/badge/GitHub-@nairaphone24-181717?logo=github"></a>
 </td>
 </tr>
@@ -105,7 +103,8 @@ type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TA
 
 <div align="center">
 
-# 🌱 PROFIL PROYEK
+#  🚀 PROFIL PROYEK
+✦ PROJECT OVERVIEW ✦
 
 ![TANI-SCAN](https://img.shields.io/badge/🌿_TANI--SCAN-Deteksi_Penyakit_Tanaman_Berbasis_AI-2ecc71?style=for-the-badge&labelColor=0f2027)
 
@@ -164,7 +163,8 @@ type=venom&color=0:0f2027,40:134e2a,100:2ecc71&height=300&section=header&text=TA
 
 <div align="center">
 
-# 📋 PROJECT CHARTER
+#  📜 PROJECT CHARTER
+✦ PROJECT FOUNDATION ✦
 
 </div>
 
