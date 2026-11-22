@@ -217,8 +217,8 @@ Menguji akurasi dan kegunaan bersama calon pengguna
 
 | Pihak | Peran |
 |-------|-------|
-| Tim Pengembang | Pelaksana proyek |
-| Dosen / Pembimbing | Pengarah dan penilai |
+| Kelompok 5 | Pelaksana proyek |
+| Cut Alna Fadhilla, S.Kom., M.si | Pengarah dan penilai |
 | Petani & Penyuluh | Calon pengguna |
 
 **Deliverables:**
@@ -270,10 +270,10 @@ Menguji akurasi dan kegunaan bersama calon pengguna
 <summary><b>✍️ Persetujuan</b></summary>
 <br>
 
-| Nama | Jabatan | Tanda Tangan | Tanggal |
-|------|---------|:------------:|:-------:|
-| Nama Anggota 1 | Project Manager | | |
-| Nama Dosen | Pembimbing | | |
+| Nama | Jabatan | 
+|------|---------|:
+| Zam Zami Effendi | Project Manager | 
+| Cut Alna Fadhilla, S.Kom., M.si | Pembimbing | 
 
 </details>
 
