@@ -26,6 +26,37 @@
 
 ## ✦ KELOMPOK 5 ✦
 
+## 🌟 MEET THE TEAM 🌟
+
+<table>
+<tr>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Zamzami&amp;hair=short05&amp;hairColor=0e0e0e&amp;skinColor=ecad80&amp;glasses=variant02&amp;glassesProbability=100&amp;earringsProbability=0&amp;backgroundColor=b6e3f4" width="150"><br>
+<b>Zam Zami Effendi (240504096)</b><br>
+<sub>👑 Project Manager & Planning</sub><br><br>
+<a href="https://github.com/zamzamiksp"><img src="https://img.shields.io/badge/GitHub-@zamzamiksp-181717?logo=github"></a>
+</td>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Ilham&amp;hair=short12&amp;hairColor=6a4e35&amp;skinColor=f2d3b1&amp;features=mustache&amp;featuresProbability=100&amp;glassesProbability=0&amp;earringsProbability=0&amp;backgroundColor=c0aede" width="150"><br>
+<b>Ilham Budiman (240504100)</b><br>
+<sub>🎨 UI/UX Designer & Frontend Developer</sub><br><br>
+<a href="https://github.com/ilhamBudiman1805"><img src="https://img.shields.io/badge/GitHub-@ilhamBudiman1805-181717?logo=github"></a>
+</td>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=AdeIrfansyah&amp;hair=short18&amp;hairColor=ac6511&amp;skinColor=9e5622&amp;features=freckles&amp;featuresProbability=100&amp;earrings=variant01&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=d1d4f9" width="150"><br>
+<b>Ade Irfansyah (250504124)</b><br>
+<sub>💻 Backend Developer & Tester</sub><br><br>
+<a href="https://github.com/adeirfansyah-sketch"><img src="https://img.shields.io/badge/GitHub-@adeirfansyah--sketch-181717?logo=github"></a>
+</td>
+<td align="center" width="190">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Tanisha&amp;hair=long16&amp;hairColor=592454&amp;skinColor=f2d3b1&amp;features=blush&amp;featuresProbability=100&amp;earrings=variant03&amp;earringsProbability=100&amp;glassesProbability=0&amp;backgroundColor=ffd5dc" width="150"><br>
+<b>Syarifah Tanisha (250504127)</b><br>
+<sub>🔍 System Analyst & Documentation</sub><br><br>
+<a href="https://github.com/nairaphone24"><img src="https://img.shields.io/badge/GitHub-@nairaphone24-181717?logo=github"></a>
+</td>
+</tr>
+</table>
+
 ---
 
 <br>
